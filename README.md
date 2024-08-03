@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I love trekking and watching football.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
