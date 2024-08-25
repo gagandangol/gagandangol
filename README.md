@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gagan Dangol</h1>
 <h3 align="center">A passionate python developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandangol&label=Profile%20views&color=0e75b6&style=flat" alt="gagandangol" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagandangol" alt="gagandangol" /></a> </p>
-
 - 🔭 I’m currently working on **HarvardX: CS50's Web Programming with Python and JavaScript**
 
 - 🌱 I’m currently learning **numpy, matplotlib, wordpress**
@@ -13,9 +9,13 @@
 
 - ⚡ Fun fact **I love trekking and watching football.**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/gagandangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="gagandangol" height="30" width="40" /></a>
+<a href="https://medium.com/@gagandangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gagandangol" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
