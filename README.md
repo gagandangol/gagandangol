@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gagan Dangol</h1>
 <h3 align="center">A passionate python developer.</h3>
 
-- 🔭 I’m currently working on **HarvardX: CS50's Web Programming with Python and JavaScript**
+- 🔭 I’m currently working on **HarvardX: CS50's Web Programming with Python and JavaScript and Neetcode 150**
 
 - 🌱 I’m currently learning **numpy, matplotlib, wordpress**
 
