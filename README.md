@@ -61,7 +61,10 @@ OpenAI Codex · MCP · Plugins · Agentic Workflows · AI-Assisted Coding
 
 ## Writing
 
-- Using Logging as a Debugging Tool in Django
+- [Using Logging as a Debugging Tool in Django](https://medium.com/django-unleashed/using-logging-as-a-debugging-tool-in-django-470575ee7c59)  
+  A practical guide to configuring Django logging and diagnosing production errors.
+
+- [View the accompanying source code](https://github.com/gagandangol/django-logging)
 
 ## Connect With Me
 
