@@ -1,22 +1,70 @@
 <h1 align="center">Hi 👋, I'm Gagan Dangol</h1>
-<h3 align="center">A passionate python developer.</h3>
+<h3 align="center">Python & Django Developer | Backend Engineering | AI-Assisted Development</h3>
 
-- 🔭 I’m currently working on **HarvardX: CS50's Web Programming with Python and JavaScript and Neetcode 150**
+## About Me
 
-- 🌱 I’m currently learning **numpy, matplotlib, wordpress**
+I'm a Python developer with professional experience building backend systems, REST APIs, internal tools, data workflows, and full-stack web applications.
 
-- 📫 How to reach me **gagan.dangol@outlook.com**
+- 💼 Python Developer at Fraunhofer IIS
+- 🎓 Master's student in Information and Communication Technology at FAU Erlangen-Nürnberg
+- 🐍 Experienced with Python, Django, Django REST Framework, and PostgreSQL
+- ⚙️ Interested in backend architecture, automation, testing, and developer tooling
+- 🤖 Building with AI-assisted and agentic development workflows
+- 🌍 Based in Germany
 
-- ⚡ Fun fact **I love trekking and watching football.**
+## What I'm Working On
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Developing internal web applications and workflow automation
+- Integrating APIs and data-ingestion processes
+- Improving code quality and developer feedback with tools such as Ruff
+- Exploring practical applications of AI agents in software engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@gagandangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gagandangol" height="30" width="40" /></a>
-</p>
+## AI-Assisted Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I use modern AI development tools to accelerate software delivery while maintaining code quality through testing and review.
+
+- OpenAI Codex for implementation, debugging, refactoring, and code review
+- Model Context Protocol (MCP) for connecting AI agents with tools and data
+- Plugin-based workflows for extending agent capabilities
+- Rapid AI-assisted prototyping and iterative development
+- AI-supported test generation and technical documentation
+
+## Selected Engineering Highlights
+
+- Reduced server CPU consumption by 50% and improved query performance by 20%
+- Reduced linting time by 50% by migrating a codebase from Pylint to Ruff
+- Built REST API integrations, data-import workflows, and internal automation tools
+- Added unit and integration tests to improve reliability
+- Mentored junior developers and helped deliver multiple software projects
+
+## Technical Skills
+
+### Backend
+
+Python · Django · Django REST Framework · PostgreSQL · REST APIs
+
+### Frontend
+
+JavaScript · jQuery · HTML · CSS · Bootstrap
+
+### Data and Automation
+
+Pandas · Excel data processing · Matplotlib · QR-code workflows
+
+### DevOps and Tools
+
+Git · GitHub · Docker · Kubernetes · CI/CD · Ruff · Postman · Jira
+
+### AI Development
+
+OpenAI Codex · MCP · Plugins · Agentic Workflows · AI-Assisted Coding
+
+## Writing
+
+- Using Logging as a Debugging Tool in Django
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/gagandangol)
+- [Medium](https://medium.com/@gagandangol)
+- Email: gagan.dangol@outlook.com
